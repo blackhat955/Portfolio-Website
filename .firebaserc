@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bimalesh-seth"
+  },
+  "targets": {
+    "bimalesh-seth": {
+      "hosting": {
+        "app": [
+          "bimaleshseth"
+        ]
+      }
+    }
+  }
+}
